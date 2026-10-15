@@ -1,0 +1,76 @@
+{
+  "_note": "Ví dụ đã duyệt: LAMIR tuyển đại lý, 9:16. Phụ đề hiệu ứng làm sau bằng subs_karaoke.py --brand LAMIR.",
+  "size": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "caption_color": "#FFFFFF",
+  "caption_fontsize": 48,
+  "scenes": [
+    {
+      "clip": "clips/s1.mp4",
+      "vo": "vo/vo1.wav",
+      "caption": "Anh chị đang kinh doanh thiết bị điện?",
+      "prompt": "9:16, phong cách quảng cáo doanh nghiệp. MC nữ trẻ áo sơ mi trắng nói trước camera trong showroom thiết bị điện"
+    },
+    {
+      "clip": "clips/s2.mp4",
+      "vo": "vo/vo2.wav",
+      "prompt": "9:16, phong cách quảng cáo doanh nghiệp. Cận cảnh aptomat LAMIR trắng-xanh trên tủ điện, ánh sáng sạch"
+    },
+    {
+      "clip": "clips/s3.mp4",
+      "vo": "vo/vo3.wav",
+      "prompt": "9:16, phong cách quảng cáo doanh nghiệp. Thử nghiệm bể nước: aptomat ngắt tức thì, tia điện nhỏ"
+    },
+    {
+      "clip": "clips/s4.mp4",
+      "vo": "vo/vo4.wav",
+      "prompt": "9:16, phong cách quảng cáo doanh nghiệp. Chủ đại lý mỉm cười nhận lô hàng LAMIR"
+    },
+    {
+      "clip": "clips/s5.mp4",
+      "vo": "vo/vo5.wav",
+      "prompt": "9:16, phong cách quảng cáo doanh nghiệp. Nhà thầu và kỹ sư trên công trình lắp tủ điện"
+    },
+    {
+      "clip": "clips/s6.mp4",
+      "vo": "vo/vo6.wav",
+      "prompt": "9:16, phong cách quảng cáo doanh nghiệp. Kỹ thuật viên hướng dẫn bán hàng tại cửa hàng"
+    },
+    {
+      "clip": "clips/s7.mp4",
+      "vo": "vo/vo7.wav",
+      "prompt": "9:16, phong cách quảng cáo doanh nghiệp. Bản đồ thị trường sáng lên các điểm đại lý"
+    },
+    {
+      "clip": "clips/s8.mp4",
+      "vo": "vo/vo8.wav",
+      "caption": "Đăng ký làm đại lý LAMIR ngay hôm nay. Hotline 09xx.xxx.xxx",
+      "prompt": "9:16, phong cách quảng cáo doanh nghiệp. MC chỉ tay, logo LAMIR + hotline pop-up",
+      "logos": [
+        {
+          "path": "logos/lamir.png",
+          "x": 40,
+          "y": 60,
+          "width": 320
+        }
+      ]
+    }
+  ],
+  "music": {
+    "track": "Motivator - Kevin MacLeod (incompetech.com), CC BY 4.0",
+    "gain_db": 2,
+    "sfx": [
+      "sfx/whoosh.wav@2.5",
+      "sfx/zap.wav@14",
+      "sfx/ding.wav@48"
+    ]
+  },
+  "subs_fix": {
+    "lamia": "LAMIR",
+    "lamir": "LAMIR",
+    "la mia": "LAMIR"
+  }
+}

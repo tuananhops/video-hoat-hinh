@@ -1,0 +1,127 @@
+{
+  "_note": "Ví dụ đã duyệt: Hải Vân / Katsutoshi Grand House, 16:9. Đặt clip/vo/logo vào đúng đường dẫn rồi chạy assemble.py.",
+  "size": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "caption_color": "#E8C66A",
+  "caption_fontsize": 50,
+  "scenes": [
+    {
+      "clip": "clips/c1.mp4",
+      "fill": [
+        "clips/c1b.mp4"
+      ],
+      "vo": "vo/vo1.wav",
+      "caption": "07/2020 · Vietinbank tài trợ 250 tỷ đồng",
+      "prompt": "Character sheet: HẢI VÂN - nữ chủ đầu tư Việt Nam ~40 tuổi, TÓC ĐEN dài buộc gọn, áo vest xanh navy; THÀNH ĐẠT - nam đối tác ~45 tuổi, vest ĐỎ; BANKER - nam/nữ áo sơ mi trắng vest xanh. Phong cách hoạt hình 3D cao cấp, tông vàng kim + xanh navy, ánh sáng điện ảnh. Mô hình tòa nhà giống ảnh tham chiếu ref_tower.png. Không có chữ/biển hiệu. Hải Vân bước vào sảnh ngân hàng sang trọng, ôm mô hình tòa nhà thật, banker bắt tay chào đón.",
+      "intro_card": {
+        "at": 1.0,
+        "name": "HẢI VÂN",
+        "role": "Chủ đầu tư Katsutoshi Grand House"
+      },
+      "logos": [
+        {
+          "path": "logos/vietinbank.png"
+        }
+      ]
+    },
+    {
+      "clip": "clips/c2.mp4",
+      "fill": [
+        "clips/c2b.mp4"
+      ],
+      "vo": "vo/vo2.wav",
+      "caption": "OKD Mikazuki thuê 66 tỷ đồng/năm",
+      "prompt": "Character sheet: HẢI VÂN - nữ chủ đầu tư Việt Nam ~40 tuổi, TÓC ĐEN dài buộc gọn, áo vest xanh navy; THÀNH ĐẠT - nam đối tác ~45 tuổi, vest ĐỎ; BANKER - nam/nữ áo sơ mi trắng vest xanh. Phong cách hoạt hình 3D cao cấp, tông vàng kim + xanh navy, ánh sáng điện ảnh. Mô hình tòa nhà giống ảnh tham chiếu ref_tower.png. Không có chữ/biển hiệu. Hải Vân ký hợp đồng thuê, những đồng xu vàng kiểu game bay lên quanh mô hình tòa nhà."
+    },
+    {
+      "clip": "clips/c3.mp4",
+      "fill": [
+        "clips/c3b.mp4"
+      ],
+      "vo": "vo/vo3.wav",
+      "caption": "2020–2022 Covid · Khai trương 9/2024",
+      "prompt": "Character sheet: HẢI VÂN - nữ chủ đầu tư Việt Nam ~40 tuổi, TÓC ĐEN dài buộc gọn, áo vest xanh navy; THÀNH ĐẠT - nam đối tác ~45 tuổi, vest ĐỎ; BANKER - nam/nữ áo sơ mi trắng vest xanh. Phong cách hoạt hình 3D cao cấp, tông vàng kim + xanh navy, ánh sáng điện ảnh. Mô hình tòa nhà giống ảnh tham chiếu ref_tower.png. Không có chữ/biển hiệu. Công trường tòa nhà thật dưới mưa, cần cẩu dừng, rồi tua nhanh xây xong, hoàng hôn khai trương."
+    },
+    {
+      "clip": "clips/c4.mp4",
+      "fill": [
+        "clips/c4b.mp4"
+      ],
+      "vo": "vo/vo4.wav",
+      "caption": "Cuối 2023 · PGB tái tài trợ 290 tỷ đồng",
+      "prompt": "Character sheet: HẢI VÂN - nữ chủ đầu tư Việt Nam ~40 tuổi, TÓC ĐEN dài buộc gọn, áo vest xanh navy; THÀNH ĐẠT - nam đối tác ~45 tuổi, vest ĐỎ; BANKER - nam/nữ áo sơ mi trắng vest xanh. Phong cách hoạt hình 3D cao cấp, tông vàng kim + xanh navy, ánh sáng điện ảnh. Mô hình tòa nhà giống ảnh tham chiếu ref_tower.png. Không có chữ/biển hiệu. Văn phòng ngân hàng, mô hình tòa nhà các tầng sáng lên: tầng khách sạn vàng, tầng căn hộ xanh. Không biển hiệu.",
+      "logos": [
+        {
+          "path": "logos/pgb.png"
+        }
+      ]
+    },
+    {
+      "clip": "clips/c5.mp4",
+      "fill": [
+        "clips/c5b.mp4"
+      ],
+      "vo": "vo/vo5.wav",
+      "caption": "Q3–Q4/2024 · Vietinbank CN Bắc Đà Nẵng · Dự thảo 320 tỷ đồng",
+      "prompt": "Character sheet: HẢI VÂN - nữ chủ đầu tư Việt Nam ~40 tuổi, TÓC ĐEN dài buộc gọn, áo vest xanh navy; THÀNH ĐẠT - nam đối tác ~45 tuổi, vest ĐỎ; BANKER - nam/nữ áo sơ mi trắng vest xanh. Phong cách hoạt hình 3D cao cấp, tông vàng kim + xanh navy, ánh sáng điện ảnh. Mô hình tòa nhà giống ảnh tham chiếu ref_tower.png. Không có chữ/biển hiệu. Hải Vân nhận dự thảo, mỉm cười rồi chuyển sang lo lắng; cảnh phụ: cô ngồi một mình bên cửa sổ mưa đọc dự thảo.",
+      "logos": [
+        {
+          "path": "logos/vietinbank.png"
+        }
+      ]
+    },
+    {
+      "clip": "clips/c6.mp4",
+      "fill": [
+        "clips/c6b.mp4"
+      ],
+      "vo": "vo/vo6.wav",
+      "caption": "Cuối 2024 · PGB + Thành Đạt · 141 & 125 tỷ đồng",
+      "prompt": "Character sheet: HẢI VÂN - nữ chủ đầu tư Việt Nam ~40 tuổi, TÓC ĐEN dài buộc gọn, áo vest xanh navy; THÀNH ĐẠT - nam đối tác ~45 tuổi, vest ĐỎ; BANKER - nam/nữ áo sơ mi trắng vest xanh. Phong cách hoạt hình 3D cao cấp, tông vàng kim + xanh navy, ánh sáng điện ảnh. Mô hình tòa nhà giống ảnh tham chiếu ref_tower.png. Không có chữ/biển hiệu. Hải Vân và Thành Đạt (vest đỏ) xem biểu đồ, phố du lịch vắng khách.",
+      "intro_card": {
+        "at": 1.0,
+        "name": "THÀNH ĐẠT",
+        "role": "Đối tác"
+      },
+      "logos": [
+        {
+          "path": "logos/pgb.png"
+        }
+      ]
+    },
+    {
+      "clip": "clips/c7.mp4",
+      "fill": [
+        "clips/c7b.mp4"
+      ],
+      "vo": "vo/vo7.wav",
+      "caption": "Q3/2025 · Vietinbank CN Bắc Đà Nẵng tái tài trợ toàn bộ",
+      "prompt": "Character sheet: HẢI VÂN - nữ chủ đầu tư Việt Nam ~40 tuổi, TÓC ĐEN dài buộc gọn, áo vest xanh navy; THÀNH ĐẠT - nam đối tác ~45 tuổi, vest ĐỎ; BANKER - nam/nữ áo sơ mi trắng vest xanh. Phong cách hoạt hình 3D cao cấp, tông vàng kim + xanh navy, ánh sáng điện ảnh. Mô hình tòa nhà giống ảnh tham chiếu ref_tower.png. Không có chữ/biển hiệu. Banker Vietinbank đến gặp Hải Vân và Thành Đạt lần thứ ba, trao hồ sơ.",
+      "logos": [
+        {
+          "path": "logos/vietinbank.png"
+        }
+      ]
+    },
+    {
+      "clip": "clips/c8.mp4",
+      "fill": [
+        "clips/c8b.mp4"
+      ],
+      "vo": "vo/vo8.wav",
+      "caption": "Cùng nhau thành công",
+      "prompt": "Character sheet: HẢI VÂN - nữ chủ đầu tư Việt Nam ~40 tuổi, TÓC ĐEN dài buộc gọn, áo vest xanh navy; THÀNH ĐẠT - nam đối tác ~45 tuổi, vest ĐỎ; BANKER - nam/nữ áo sơ mi trắng vest xanh. Phong cách hoạt hình 3D cao cấp, tông vàng kim + xanh navy, ánh sáng điện ảnh. Mô hình tòa nhà giống ảnh tham chiếu ref_tower.png. Không có chữ/biển hiệu. Ba bên bắt tay điềm tĩnh trước tòa nhà thật, không pháo hoa, không đám đông, tối dần."
+    }
+  ],
+  "music": {
+    "track": "Five Armies - Kevin MacLeod (incompetech.com), CC BY 4.0",
+    "gain_db": 0,
+    "sfx": [
+      "sfx/hit.wav@0:+2",
+      "sfx/whoosh.wav@8"
+    ]
+  }
+}
